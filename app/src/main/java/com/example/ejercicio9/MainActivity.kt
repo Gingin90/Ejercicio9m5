@@ -19,8 +19,9 @@ val input= readLine()!!.toDouble()
     val fahrenheit =((9.0/5.0)*input) +32
     println("Fahrenheit: $fahrenheit")
 
-val celciusToFahrenheit:Double= (input 9/5)+32
-    println("fahrenheit")
+//val celciusToFahrenheit  = (input * 9 / 5)+ 32
+   // println("fahrenheit")
+
     val kelvin = input + 273.15
     println("Kelvin: $kelvin")
 
